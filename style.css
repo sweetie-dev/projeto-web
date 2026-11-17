@@ -62,6 +62,11 @@ button {
 button:hover {
     background: #6240b5;
 }
+.mensagem {
+    margin: 18px 0 0;
+    color: #6240b5;
+    font-weight: bold;
+}
 .rodape {
     display: flex;
     align-items: center;
